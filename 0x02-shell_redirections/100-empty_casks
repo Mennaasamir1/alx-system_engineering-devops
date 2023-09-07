@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -empty -r -delete
+find .  -r -delete -empty
